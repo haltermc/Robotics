@@ -1,0 +1,5 @@
+<launch> 
+    <!-- My Package launch file -->
+    <node pkg="exam" type="maze_sol.py" name="exam" output="screen" >
+    </node>
+</launch>
